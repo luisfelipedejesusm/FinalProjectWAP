@@ -1,0 +1,14 @@
+.hidden{
+    display: none !important;
+}
+
+.greetings{
+    margin-right: 15px;
+}
+
+.addToCart{
+    cursor: pointer;
+}
+.space-span{
+    margin: 0 5px;
+}
